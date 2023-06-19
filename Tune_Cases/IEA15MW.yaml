@@ -46,7 +46,7 @@ controller_params:
   zeta_vs:            0.85                  # Torque controller desired damping ratio [-]
   omega_vs:           0.12                  # Torque controller desired natural frequency [rad/s]
   twr_freq:           2.82   #3.355 # for semi only!
-  ptfm_freq:          0.33  #0.213 # for semi only!
+  ptfm_freq:          0.33  #0.213 #0.213 # for semi only!
   # Optional - these can be defined, but do not need to be
   min_pitch:          0.0                   # Minimum pitch angle [rad], {default = 0 degrees}
   vs_minspd:          0.523598775           # Minimum rotor speed [rad/s], {default = 0 rad/s}
